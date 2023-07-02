@@ -1,2 +1,3 @@
-# Laptopwala
-An ecommerce website for premium laptops
+# LapZilla
+
+An ecommerce website for premium laptops.

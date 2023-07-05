@@ -7,14 +7,14 @@ function Navbar() {
       <Link className="menu border-2 p-2 hover:bg-red-200 rounded-lg hover:font-bold hover:text-red-700 border-red-900 w-24 flex justify-center" to={"/"}>
         Home
       </Link>
-      <Link className="menu border-2 p-2 hover:bg-red-200 rounded-lg hover:font-bold hover:text-red-700 border-red-900 w-24 flex justify-center" to={"/society"}>
-        Society
+      <Link className="menu border-2 p-2 hover:bg-red-200 rounded-lg hover:font-bold hover:text-red-700 border-red-900 w-24 flex justify-center" to={"/register"}>
+        Register
       </Link>
       <Link className="menu border-2 p-2 hover:bg-red-200 rounded-lg hover:font-bold hover:text-red-700 border-red-900 w-24 flex justify-center" to={"/about"}>
         About
       </Link>
-      <Link className="menu border-2 p-2 hover:bg-red-200 rounded-lg hover:font-bold hover:text-red-700 border-red-900 w-24 flex justify-center" to={"/contact"}>
-        Contact
+      <Link className="menu border-2 p-2 hover:bg-red-200 rounded-lg hover:font-bold hover:text-red-700 border-red-900 w-24 flex justify-center" to={"/login"}>
+        Login
       </Link>
     </div>
   );
